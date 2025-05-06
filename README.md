@@ -6,7 +6,7 @@ An immersive **Augmented Reality home renovation** application developed in **Un
 
 ## 📱 Download
 
-[👉 Click here to download the latest APK]([https://github.com/your-username/AR-Furniture-Platform/releases/latest](https://github.com/VanshikaPradhan/AR-Furniture-Platform/releases/download/v1.0.0/AR.Furniture.Platform.apk))
+[👉 Click here to download the latest APK](https://github.com/VanshikaPradhan/AR-Furniture-Platform/releases/download/v1.0.0/AR.Furniture.Platform.apk)
 
 ## 🚀 Features
 
